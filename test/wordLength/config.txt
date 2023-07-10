@@ -1,0 +1,3 @@
+inputfileLocation = "test/wordLength/100west.txt"
+outputfileLocation = "test/wordLength/output"
+N = "10"

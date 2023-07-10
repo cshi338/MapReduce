@@ -1,0 +1,3 @@
+inputfileLocation = "test/productReview/product_review_data.txt"
+outputfileLocation = "test/productReview/output"
+N = "10"
