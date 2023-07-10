@@ -1,5 +1,4 @@
-# project-1-chris_connor_suyash-1
-project-1-chris_connor_suyash-1 created by GitHub Classroom
+#Map Reduce
 
 Please run the test.sh bash script in visual studio or a terminal.
 The test.sh script will run the run.py program with three different UDFs and config files.
